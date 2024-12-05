@@ -32,7 +32,7 @@ To run the project locally:
    ```bash  
    git clone https://github.com/[your-username]/[repository-name].git  
    ```  
-2. Open `ind.html` in your browser to explore the home page.  
+2. Open `index.html` in your browser to explore the home page.  
 3. Navigate to `contact.html` for the contact form.  
 
 Thank you for visiting My Portfolio Website!
